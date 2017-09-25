@@ -1,6 +1,6 @@
 <?php
 
-namespace mdm\admin\components;
+namespace unlite\admin\components;
 
 use Yii;
 use yii\caching\Cache;
@@ -30,7 +30,7 @@ use yii\rbac\ManagerInterface;
  * or use [[\Yii::$container]]
  *
  * ```
- * Yii::$container->set('mdm\admin\components\Configs',[
+ * Yii::$container->set('unlite\admin\components\Configs',[
  *     'db' => 'customDb',
  *     'menuTable' => 'admin_menu',
  * ]);

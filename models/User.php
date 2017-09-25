@@ -1,13 +1,13 @@
 <?php
 
-namespace mdm\admin\models;
+namespace unlite\admin\models;
 
 use Yii;
 use yii\base\NotSupportedException;
 use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveRecord;
 use yii\web\IdentityInterface;
-use mdm\admin\components\Configs;
+use unlite\admin\components\Configs;
 
 /**
  * User model

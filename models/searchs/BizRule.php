@@ -1,13 +1,13 @@
 <?php
 
-namespace mdm\admin\models\searchs;
+namespace unlite\admin\models\searchs;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ArrayDataProvider;
-use mdm\admin\models\BizRule as MBizRule;
-use mdm\admin\components\RouteRule;
-use mdm\admin\components\Configs;
+use unlite\admin\models\BizRule as MBizRule;
+use unlite\admin\components\RouteRule;
+use unlite\admin\components\Configs;
 
 /**
  * Description of BizRule

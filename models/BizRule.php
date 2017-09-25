@@ -1,10 +1,10 @@
 <?php
 
-namespace mdm\admin\models;
+namespace unlite\admin\models;
 
 use Yii;
 use yii\rbac\Rule;
-use mdm\admin\components\Configs;
+use unlite\admin\components\Configs;
 
 /**
  * BizRule

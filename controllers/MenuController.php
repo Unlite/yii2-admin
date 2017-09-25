@@ -1,14 +1,14 @@
 <?php
 
-namespace mdm\admin\controllers;
+namespace unlite\admin\controllers;
 
 use Yii;
-use mdm\admin\models\Menu;
-use mdm\admin\models\searchs\Menu as MenuSearch;
+use unlite\admin\models\Menu;
+use unlite\admin\models\searchs\Menu as MenuSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
-use mdm\admin\components\Helper;
+use unlite\admin\components\Helper;
 
 /**
  * MenuController implements the CRUD actions for Menu model.
